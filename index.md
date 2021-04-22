@@ -7,7 +7,7 @@ header:
   overlay_filter: 0.3
   overlay_image: /assets/images/tentacle-draft-1.gif
 excerpt: >
-  .
+  Mon portfolio
 row1:
   - image_path: /assets/images/TentacleDraft.png
     alt: "Tentacle Draft"
