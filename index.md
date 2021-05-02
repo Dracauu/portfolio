@@ -33,7 +33,7 @@ row3:
     alt: "Contribution à un projet open source"
     title: "Contribution à un projet open source"
     excerpt: >
-      SkyTemple est un outil de modification d'image disque (ou ROM) de Pokémon Donjon Mystère: Explorateur du Ciel, ayant un grand attachement à ce jeu j'ai cherché à contribuer à ce projet.
+      SkyTemple est un outil de modification d'image disque (ou ROM) de Pokémon Donjon Mystère: Explorateurs du Ciel, ayant un grand attachement à ce jeu j'ai cherché à contribuer à ce projet.
     btn_label: "<i class='fas fa-info-circle'></i> En savoir plus"
     btn_class: "btn--primary"
     url: /skytemple-pr/
