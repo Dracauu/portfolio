@@ -13,7 +13,7 @@ row1:
     alt: "Tentacle Draft"
     title: "Tentacle Draft"
     excerpt: >
-      Tentacle Draft est un endless runner solo jouable au clavier, il a été réalisé du 1er au 7 janvier 2021 dans le cadre de la WeeklyGameJam #182 qui avait pour thème « Cthulu ».
+      Tentacle Draft est un endless runner solo jouable au clavier, il a été réalisé du 1er au 7 janvier 2021 dans le cadre de la WeeklyGameJam #182 qui avait pour thème « Cthulhu ».
     btn_label: "<i class='fas fa-info-circle'></i> En savoir plus"
     btn_class: "btn--primary"
     url: /tentacle-draft/
@@ -27,8 +27,20 @@ row2:
     btn_label: "<i class='fas fa-info-circle'></i> En savoir plus"
     btn_class: "btn--primary"
     url: /spoops-skirmish/
+
+row3:
+  - image_path: /assets/images/skytemple-logo.png
+    alt: "Contribution à un projet open source"
+    title: "Contribution à un projet open source"
+    excerpt: >
+      SkyTemple est un outil de modification d'image disque (ou ROM) de Pokémon Donjon Mystère: Explorateur du Ciel, ayant un grand attachement à ce jeu j'ai cherché à contribuer à ce projet.
+    btn_label: "<i class='fas fa-info-circle'></i> En savoir plus"
+    btn_class: "btn--primary"
+    url: /skytemple-pr/
 ---
 
 {% include feature_row id="row1" type="left" %}
 
 {% include feature_row id="row2" type="right" %}
+
+{% include feature_row id="row3" type="left" %}

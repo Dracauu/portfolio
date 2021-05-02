@@ -1,7 +1,7 @@
 ---
 title:  "Spoops Skirmish"
 excerpt: >
-  Un simple sidescroller pour ma 1ère Game Jam
+  Un jeu de combat
 classes: wide
 header:
   overlay_color: "#5e616c"
@@ -11,9 +11,9 @@ header:
 
 ![](../assets/images/spoops-skirmish-logo.gif)
 
-Spoops Skirmish est un jeu de combat jouable localement au clavier, il a été réalisé du 12 au 18 mars 2021 dans le cadre de la WeeklyGameJam #192 qui avait pour thème « Objet Hanté ». Il est jouable gratuitement sur [itch.io](https://dracau.itch.io/spoops-skirmish)
+Spoops Skirmish est un jeu de combat jouable localement au clavier, il a été réalisé du 12 au 18 mars 2021 dans le cadre de la WeeklyGameJam #192 qui avait pour thème « Objet Hanté ». Il est jouable gratuitement sur [ma page itch.io](https://dracau.itch.io/spoops-skirmish)
 
-Dans ce jeu, chaque joueur contrôle un fantôme rouge ou bleu (que l’on appelle un Spoop), chacun a un bloc à disposition qu’il peux soulever ou hanter. Lorsqu’un bloc est hanté, il peut lancer un faisceau de lumière qui tue le Spoop adverse, il est aussi possible de tuer un Spoop en l’écrasant avec un bloc.
+Dans ce jeu, chaque joueur contrôle un fantôme rouge ou bleu (que l’on appelle un Spoop), chacun a un bloc à disposition qu’il peut soulever ou hanter. Lorsqu’un bloc est hanté, il peut lancer un faisceau de lumière qui tue le Spoop adverse, il est aussi possible de tuer un Spoop en l’écrasant avec un bloc.
 
 ![](../assets/images/spoops-skirmish-haunt.gif)
 
@@ -30,3 +30,5 @@ Il existe aussi des bombes, qui produisent une explosion lorsqu’elles sont jet
 Ce projet a été réalisé en C# sur Unity, il s’agit de ma 1ère Jam en équipe.
 
 Je me suis occupé du Game Design ainsi que de la majorité du travail de programmation, j’ai eu l’aide de 2 amis: ADM et El Laggron, ADM gérait le design graphique ainsi que les SFX, El Laggron a programmé la mécanique du faisceau de lumière.
+
+Les retours sur ce jeu, bien que moins nombreux que pour Tentacle Draft de par la période, sont restés très positifs malgré une prise en main assez difficile.
