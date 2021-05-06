@@ -4,6 +4,8 @@ main:
     url: /tentacle-draft/
   - title: "Spoops Skirmish"
     url: /spoops-skirmish/
+  - title: "Open-source"
+    url: /skytemple-pr
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
