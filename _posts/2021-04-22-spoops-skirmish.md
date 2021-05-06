@@ -1,7 +1,7 @@
 ---
 title:  "Spoops Skirmish"
 excerpt: >
-  Un jeu de combat
+  Un jeu de combat où tout dépend des blocs
 classes: wide
 header:
   overlay_color: "#5e616c"
